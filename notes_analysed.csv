@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0001,forgot_or_no_reminder,0.95,Patient forgot and missed SMS,Improve SMS delivery check,valid,{}
+N002,A0010,distance_or_transport,0.9,Clinic too far,Provide transport voucher,valid,{}
+N003,A0020,cost_or_fee,0.92,Fee too high,Offer installments,valid,{}
+N004,A0030,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N005,A0040,illness_or_emergency,0.98,Admitted to hospital,Reschedule booking,valid,{}
+N006,A0050,work_or_schedule,0.93,Stuck at office meeting,Offer evening slots,valid,{}
+N007,A0060,forgot_or_no_reminder,0.88,Hinglish forget reminder check,Add multilingual reminders,valid,{}
+N008,A0070,distance_or_transport,0.91,Terrible traffic delay,Recommend online consult,valid,{}
+N009,A0080,other,0.85,Personal issue last minute,Follow up callback,valid,{}
+N010,A0090,work_or_schedule,0.94,Client meeting schedule clash,Offer flexible rebooking,valid,{}
