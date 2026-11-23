@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0001,forgot_or_no_reminder,0.9,Forgot or reminder issue,Improve SMS delivery,valid,"{""root_cause"": ""forgot_or_no_reminder"", ""confidence"": 0.9, ""summary"": ""Forgot or reminder issue"", ""recommended_action"": ""Improve SMS delivery""}"
+N002,A0002,distance_or_transport,0.95,Distance or transport challenge,Recommend teleconsultation,valid,"{""root_cause"": ""distance_or_transport"", ""confidence"": 0.95, ""summary"": ""Distance or transport challenge"", ""recommended_action"": ""Recommend teleconsultation""}"
+N003,A0003,cost_or_fee,0.9,Cost issue,Suggest discount,valid,"{""root_cause"": ""cost_or_fee"", ""confidence"": 0.9, ""summary"": ""Cost issue"", ""recommended_action"": ""Suggest discount""}"
+N004,A0004,other,0.0,No note recorded,Re-call patient,skipped_blank,{}
+N005,A0005,illness_or_emergency,0.9,Medical emergency,Reschedule booking,valid,"{""root_cause"": ""illness_or_emergency"", ""confidence"": 0.9, ""summary"": ""Medical emergency"", ""recommended_action"": ""Reschedule booking""}"
+N006,A0006,work_or_schedule,0.9,Work scheduling issue,Offer weekend options,valid,"{""root_cause"": ""work_or_schedule"", ""confidence"": 0.9, ""summary"": ""Work scheduling issue"", ""recommended_action"": ""Offer weekend options""}"
+N007,A0007,forgot_or_no_reminder,0.9,Forgot or reminder issue,Improve SMS delivery,valid,"{""root_cause"": ""forgot_or_no_reminder"", ""confidence"": 0.9, ""summary"": ""Forgot or reminder issue"", ""recommended_action"": ""Improve SMS delivery""}"
+N008,A0008,distance_or_transport,0.95,Distance or transport challenge,Recommend teleconsultation,valid,"{""root_cause"": ""distance_or_transport"", ""confidence"": 0.95, ""summary"": ""Distance or transport challenge"", ""recommended_action"": ""Recommend teleconsultation""}"
+N009,A0009,other,0.8,Unclassified reason,Follow up,valid,"{""root_cause"": ""other"", ""confidence"": 0.8, ""summary"": ""Unclassified reason"", ""recommended_action"": ""Follow up""}"
+N010,A0010,illness_or_emergency,0.9,Medical emergency,Reschedule booking,valid,"{""root_cause"": ""illness_or_emergency"", ""confidence"": 0.9, ""summary"": ""Medical emergency"", ""recommended_action"": ""Reschedule booking""}"
